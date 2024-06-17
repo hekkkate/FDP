@@ -21,7 +21,7 @@ This repository contains data and Python code from the research conducted on the
 
 ## Repository Structure
 
-** Data **
+**Data**
 
 Contains datasets used in the analysis:
 
@@ -38,7 +38,7 @@ Contains datasets used in the analysis:
     - **Cross_RpubCentromeres_with_QuartetCandidates:** Cross-analysis data between R. pubera centromeres and quartet candidates.
       - **2_BedtoolsCluster:** Clustered data using Bedtools.
 
-** quarTeT **
+**quarTeT**
 
 Contains scripts and results for the quartet analysis:
 
