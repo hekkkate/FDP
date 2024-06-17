@@ -11,4 +11,4 @@
 
 ## Description
 
-This repository contains data and Python code from de research
+This repository contains data and Python code from the research
