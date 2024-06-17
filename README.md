@@ -27,11 +27,11 @@ Contains datasets used in the analysis:
   - **CENH3_peaks_sorted.50kb.merged.bed:** Sorted and merged CENH3 peak data.
 - **Parameters:** Various parameter files for quartet analysis.
   - **merged.quartet.*.centromeres:** Files with centromere data at different resolutions.
-- **_R. pubera_:** Data related to Rhynchospora pubera.
+- **_R. pubera_:** Data related to _Rhynchospora pubera_.
     - **R_pubera_ref_2n10_v2_Tyba.bed:** Reference data for R. pubera.
-    - **Rhynchospora_info.txt:** Information on Rhynchospora.
-    - **Cross_RpubCentromeres_with_QuartetCandidates:** Cross-analysis data between R. pubera centromeres and quartet candidates.
-      - **2_BedtoolsCluster:** Clustered data using Bedtools.
+    - **Rhynchospora_info.txt:** Information on _R. pubera_.
+    - **Cross_RpubCentromeres_with_QuartetCandidates:** Cross-analysis data between _R. pubera_ centromeres and quarTeT candidates.
+      - **2_BedtoolsCluster:** Clustered data using BEDTools.
 
 **quarTeT**
 
