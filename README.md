@@ -1,8 +1,8 @@
-# Insights of the Genomic Landscape of Holocentric Chromosomes in the Spider Dysdera catalonica
+# Insights of the Genomic Landscape of Holocentric Chromosomes in the Spider _Dysdera catalonica_
 
 
 ## Final Degree Project
-- **Title:** Insights of the Genomic Landscape of Holocentric Chromosomes in the Spider Dysdera catalonica
+- **Title:** Insights of the Genomic Landscape of Holocentric Chromosomes in the Spider _Dysdera catalonica_
 - **Author:** Hekate Ribera
 - **Degree:** Bachelor`s Degree in Bioinformatics (BDBI)
 - **Institution:** ESCI-UPF
@@ -20,14 +20,14 @@ This repository contains data and Python code from the research conducted on the
 
 Contains datasets used in the analysis:
 
-- **D. catalonica:** Data related to Dysdera catalonica.
+- **_D. catalonica_:** Data related to _Dysdera catalonica_.
   - **TADS:** Files with TAD (Topologically Associating Domains) blocks at different resolutions.
   - **tad_centro.bed:** Centromere data for TADs.
 - **CENH3:** Data on CENH3 peaks.
   - **CENH3_peaks_sorted.50kb.merged.bed:** Sorted and merged CENH3 peak data.
 - **Parameters:** Various parameter files for quartet analysis.
   - **merged.quartet.*.centromeres:** Files with centromere data at different resolutions.
-- **R. pubera:** Data related to Rhynchospora pubera.
+- **_R. pubera_:** Data related to Rhynchospora pubera.
     - **R_pubera_ref_2n10_v2_Tyba.bed:** Reference data for R. pubera.
     - **Rhynchospora_info.txt:** Information on Rhynchospora.
     - **Cross_RpubCentromeres_with_QuartetCandidates:** Cross-analysis data between R. pubera centromeres and quartet candidates.
