@@ -11,12 +11,7 @@
 
 ## Description
 
-This repository contains data and Python code from the research.
-
-
-
-
-This repository contains data and Python code from the research conducted on the genomic landscape of holocentric chromosomes in the spider Dysdera catalonica. The project involves analyzing genomic data to understand the structure and function of these chromosomes.
+This repository contains data and Python code from the research conducted on the genomic landscape of holocentric chromosomes in the spider _Dysdera catalonica_. The project involves analyzing genomic data to understand the structure and function of these chromosomes.
 
 
 ## Repository Structure
